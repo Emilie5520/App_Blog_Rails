@@ -1,24 +1,17 @@
-# README
+Projet Mercredi semaine 4 THP : En groupe : @Joelthp, @Elmousski, @MattMonta, @CharlotteHouivet et  @Emilie5520
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Assignment
 
-Things you may want to cover:
+Build an app to compete with Pinterest. Users can create 'pins'. Each pin gets an url from an online image. Users can post comments on pins but they can't comments on comments.
 
-* Ruby version
+How to execute the program ?
 
-* System dependencies
+1. Clone this repository
 
-* Configuration
+2. Install all the gems
 
-* Database creation
+3. $ bundle install
 
-* Database initialization
+4. Migrate db files
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+5. $ rails db:migrate
