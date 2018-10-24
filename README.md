@@ -1,8 +1,5 @@
 Projet Mercredi semaine 4 THP : En groupe : @Joelthp, @Elmousski, @MattMonta, @CharlotteHouivet et  @Emilie5520
 
-Assignment
-
-Build an app to compete with Pinterest. Users can create 'pins'. Each pin gets an url from an online image. Users can post comments on pins but they can't comments on comments.
 
 How to execute the program ?
 
